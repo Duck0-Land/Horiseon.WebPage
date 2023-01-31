@@ -19,3 +19,12 @@ In this challenge I was asked to fix and improve the exisitng code for a website
 - A concise descriptive title
 
 **My Work Done:**
+- Fixed internal links
+- Used semantic elemts to refactor html
+- Changed css to follow html structure
+- Removed useless css classes
+- Optimized web title
+- Gave alt attributes to the images
+
+**My Link**
+https://duck0-land.github.io/Horiseon.WebPage/
